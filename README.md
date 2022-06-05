@@ -3,7 +3,8 @@
   ### 🌼 Kim Minju  
   - Soongsil Univ. Software Engineering
   - Android developer
- 
+  - <a href= "https://programmers.co.kr/pr/mindori1019_3015">이력서</a>
+    
   ---
 
 
