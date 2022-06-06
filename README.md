@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/MySQL-B22222?style=flat-square&logo=MySQL&logoColor=white"/></a>
   
   **Communication :**
-  <img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Slack-DA88FF?style=flat-square&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-0B38DE?style=flat-square&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Figma-DC143C?style=flat-square&logo=Figma&logoColor=white"/></a>
