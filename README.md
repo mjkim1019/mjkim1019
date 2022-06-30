@@ -9,7 +9,7 @@
 
 
   <a href="https://github.com/kimchuu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimchuu&count_bg=%23454644&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Githubs&edge_flat=false"/></a> 
-<a href="mindori@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/> </a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:chuu1019@gmail.com"/> 
   <a href="https://velog.io/@chuu1019"><img src="https://img.shields.io/badge/chuu1019-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
  <a href="https://www.instagram.com/min._.ju1019/"> <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a>
   
