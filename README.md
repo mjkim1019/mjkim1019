@@ -14,8 +14,6 @@
  <a href="https://www.instagram.com/min._.ju1019/"> <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a>
   
     
- [![Minju's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchuu)](https://github.com/kimchuu/github-readme-stats)
-
  ### 🔨 Tech Stack 🔨
    _Languages & Tools that I used ..._ </br>
   
