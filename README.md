@@ -3,7 +3,6 @@
   ### 🌼 Kim Minju  
   - Soongsil Univ. Software Engineering
   - Android developer
-  - <a href= "https://nickel-cantaloupe-a77.notion.site/Minju-Kim-c374475603bb481db16a36c988289cab">이력서</a>
 
   ---
 
