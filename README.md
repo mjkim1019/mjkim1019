@@ -1,6 +1,6 @@
 <div>
     
-  ### 🌼 Kim Minju  
+  ### 🌼 Minju Kim  
   - Soongsil Univ. Software Engineering
   - Android developer
 
