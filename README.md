@@ -10,7 +10,7 @@
 
 _I recently ..._
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chuu1019&tag=android)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chuu1019&tag=android)](https://velog.io/@chuu1019)
 
 
 ### 💻 Work & Activities
