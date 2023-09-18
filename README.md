@@ -14,15 +14,16 @@ _I recently ..._
 
 
 ### 💻 Work & Activities
+- 한국대학생IT경영학회 큐시즘 28기 개발팀 (`2023.06-2023.11`)
 - _K-SW Square Winter Global Program_ in _Purdue Univ._ (`2022.12.26~2023.02.28`)
 - 제 5회 국민은행 소프트웨어 공모전 장려상 (`2022.11.05`)
 - 숭실대학교 소프트웨어공모전 은상 (`2022.09.16`)
-- 엘리스 코딩 교육(현 [코더랜드](https://coderland.io/)) 튜터 (`2022.09~2022.12`)
+- 엘리스 코딩교육(현 [코더랜드](https://coderland.io/)) 튜터 (`2022.09~2022.12`)
 - [Miner.inc](https://www.minerinc.io/) Android 개발자 (`2021.10~2022.05`)
-- 멋쟁이 사자처럼 어흥올림픽(수도권 12개 대학 연합 해커톤) 동상 (`2021.09.26`)
-- 멋쟁이 사자처럼 9기 숭실대 (`2021.03~2022.02`)
+- 멋쟁이사자처럼 수도권 대학 연합해커톤 동상 (`2021.09.26`)
+- 멋쟁이사자처럼 9기 숭실대 (`2021.03~2022.02`)
 - SSUML 숭실대 머신러닝 소모임 (`2020.04~2020.12`)
-- 숭실대학교 소프트웨어학부 (`2019.03 ~ ing`)
+- 숭실대학교 소프트웨어학부 (`2019.03 ~ 2024.02(예정)`)
 
 
 ### 📚 Skills
@@ -34,6 +35,7 @@ _I recently ..._
     - `Glide ksp`, `FCM`
       
     ✏️ **Knowledge**
+    - `App Modularization`
     - `Jetpack Compose UI`, `DataStore`, `Compose Material3`
     - `Alarm Manager`, `Broadcast Receiver`
     - `Koin`
