@@ -11,11 +11,6 @@ Software Engineer with 2+ years of experience in developing and operating AI-bas
 Passionate about enhancing user experience and operational efficiency through innovative technology. 
 Managed SKT’s core system for product launches, reducing repeated customer inquiries by 70%.
 
-
-_I recently ..._
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chuu1019&tag=android)](https://velog.io/@chuu1019)
-
 -----
 
 ### 🛠 Skills
