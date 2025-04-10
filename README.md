@@ -28,25 +28,10 @@ Managed SKT’s core system for product launches, reducing repeated customer inq
 
 #### SK C&C (2024 - Present)
 - Managed SKT (The Largest Mobile Carrier in Korea) core system for product launches, reducing repeated customer inquiries by 70%.
-- Developed AI-driven SQL Chatbot and meeting summarization tools.
+- Developed SQL AI Agent, meeting summarization tools and SKT Consulation App(Full-stack).
 - Created translation bot improving global team productivity.
 
 #### Miner Inc. (2021 - 2022)
 - Developed Shotag Android app (500+ downloads).
-
-
----
-
-### 💻 Projects
-
-#### [SQL AI Agent Chatbot](#) _(2025)_
-- Autonomous SQL query generation for data analysis.
-
-#### [AI Meeting Minutes](https://ai-minutes-of-meeting.vercel.app/) _(2025)_
-- AI-based automatic meeting documentation (transcribe(STT), summarization, ...).
-- ***Vibe Coding*** by using Cursor
-
-#### SKT Consultation App _(2024)_
-- Built customer-facing features, achieving faster delivery and top engagement.
 
 </div>
