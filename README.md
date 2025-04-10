@@ -49,13 +49,4 @@ Managed SKT’s core system for product launches, reducing repeated customer inq
 #### SKT Consultation App _(2024)_
 - Built customer-facing features, achieving faster delivery and top engagement.
 
----
-
-### 🌟 Personal Projects
-
-#### [Blink - AI Link Archiving](https://blink-archive.com/landing.html?_gl=1*1csu5et*_ga*Njc2OTk0MjMwLjE3NDExNTAyMDA.*_ga_SVPGFFPMVF*MTc0MTE1MDE5OS4xLjAuMTc0MTE1MDIwMS41OC4wLjA.) _(2024 - Present)_
-- Backend development (Kotlin, Spring Boot, AWS).
-- AI-driven summarization (Gemini AI).
-- 550+ active users.
-
 </div>
