@@ -1,50 +1,66 @@
 <div>
-    
-### 💁‍♀️ Introduction
-안녕하세요! **꾸준한 실행력을 지닌 신입 Android 개발자 김민주**입니다.
 
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:chuu1019@gmail.com"/> 
   <a href="https://velog.io/@chuu1019"><img src="https://img.shields.io/badge/chuu1019-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
-  <a href = "https://www.linkedin.com/feed/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
- <a href="https://www.instagram.com/min._.ju1019/"> <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/> </a>
+  <a href = "https://www.linkedin.com/feed/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+안녕하세요! **따뜻한 시선으로 문제를 해결하는 김민주**입니다.
+
+### 💁‍♀️ Summary
+Software Engineer with 2+ years of experience in developing and operating AI-based solutions. 
+Passionate about enhancing user experience and operational efficiency through innovative technology. 
+Managed SKT’s core system for product launches, reducing repeated customer inquiries by 70%.
+
 
 _I recently ..._
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chuu1019&tag=android)](https://velog.io/@chuu1019)
 
+-----
 
-### 💻 Work & Activities
-- 한국대학생IT경영학회 큐시즘 28기 개발팀 (`2023.06-2023.11`)
-- _K-SW Square Winter Global Program_ in _Purdue Univ._ (`2022.12.26~2023.02.28`)
-- 제 5회 국민은행 소프트웨어 공모전 장려상 (`2022.11.05`)
-- 숭실대학교 소프트웨어공모전 은상 (`2022.09.16`)
-- 엘리스 코딩교육(현 [코더랜드](https://coderland.io/)) 튜터 (`2022.09~2022.12`)
-- [Miner.inc](https://www.minerinc.io/) Android 개발자 (`2021.10~2022.05`)
-- 멋쟁이사자처럼 수도권 대학 연합해커톤 동상 (`2021.09.26`)
-- 멋쟁이사자처럼 9기 숭실대 (`2021.03~2022.02`)
-- SSUML 숭실대 머신러닝 소모임 (`2020.04~2020.12`)
-- 숭실대학교 소프트웨어학부 (`2019.03 ~ 2024.02(예정)`)
+### 🛠 Skills
+
+- **Languages**: Python, Kotlin, Java, C, JavaScript
+- **Frameworks/Libraries**: Spring Boot, Next.js, LangChain, React
+- **DevOps & Cloud**: AWS (EC2, RDS, S3, Lambda), Vercel, GitHub Actions, Supabase
+- **Databases**: Oracle, MySQL, PostgreSQL
+- **AI Tools**: GPT Models, OpenAI Whisper, Gemini API
+- **Tools**: Git, Firebase, Cursor, Figma
 
 
-### 📚 Skills
-- **Android Application**
-  
-    💪 **Strong**    
-    - `Hilt`, `Retrofit2`, `OkHttp3`, `Firebase Remote Config`
-    - `Coroutines`, `Databinding`, `ViewModel`, `Jetpack-Navigation`, `Flow`
-    - `Glide ksp`, `FCM`
-      
-    ✏️ **Knowledge**
-    - `App Modularization`
-    - `Jetpack Compose UI`, `DataStore`, `Compose Material3`
-    - `Alarm Manager`, `Broadcast Receiver`
-    - `Koin`
-    
-- **Programming Language**: <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>(💪) <img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-6BB5FA?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-1572B6?style=flat-square&logo=python&logoColor=white"/>
+-----
+### 🚀 Work Experience
 
-- **Etc** : <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-DA88FF?style=flat-square&logo=Slack&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Notion-0B38DE?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Figma-DC143C?style=flat-square&logo=Figma&logoColor=white"/></a>
+#### SK C&C (2024 - Present)
+- Managed SKT (The Largest Mobile Carrier in Korea) core system for product launches, reducing repeated customer inquiries by 70%.
+- Developed AI-driven SQL Chatbot and meeting summarization tools.
+- Created translation bot improving global team productivity.
 
+#### Miner Inc. (2021 - 2022)
+- Developed Shotag Android app (500+ downloads).
+
+
+---
+
+### 💻 Projects
+
+#### [SQL AI Agent Chatbot](#) _(2025)_
+- Autonomous SQL query generation for data analysis.
+
+#### [AI Meeting Minutes](https://ai-minutes-of-meeting.vercel.app/) _(2025)_
+- AI-based automatic meeting documentation (transcribe(STT), summarization, ...).
+- ***Vibe Coding*** by using Cursor
+
+#### SKT Consultation App _(2024)_
+- Built customer-facing features, achieving faster delivery and top engagement.
+
+---
+
+### 🌟 Personal Projects
+
+#### [Blink - AI Link Archiving](https://blink-archive.com/landing.html?_gl=1*1csu5et*_ga*Njc2OTk0MjMwLjE3NDExNTAyMDA.*_ga_SVPGFFPMVF*MTc0MTE1MDE5OS4xLjAuMTc0MTE1MDIwMS41OC4wLjA.) _(2024 - Present)_
+- Backend development (Kotlin, Spring Boot, AWS).
+- AI-driven summarization (Gemini AI).
+- 550+ active users.
 
 </div>
